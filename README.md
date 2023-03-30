@@ -84,7 +84,7 @@ Example JSON output:
 
 ## Pre-built binaries
 
-You can download pre-built binaries for Windows, Linux, and macOS from the [releases page](releases).
+You can download pre-built binaries for Windows, Linux, and macOS from the [releases page](https://github.com/david1155/gcp-folder-project-tree-builder/releases).
 
 ## Troubleshooting
 
