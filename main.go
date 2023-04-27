@@ -4,6 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"flag"
+	"fmt"
 	"log"
 	"strings"
 	"sync"
@@ -116,5 +117,5 @@ func main() {
 		log.Fatalf("Failed to marshal JSON result: %v", err)
 	}
 
-	log.Println(string(jsonResult))
+	fmt.Println(string(jsonResult))
 }
